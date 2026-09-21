@@ -1,4 +1,4 @@
-<img width="1307" height="237" alt="image" src="https://github.com/user-attachments/assets/27652675-87e0-4831-bcd4-96810c65e4c2" /># Hi there, I'm Muhammad Rafiif Ansyadya! 👋
+# Hi there, I'm Muhammad Rafiif Ansyadya! 👋
 
 I'm an Informatics Engineering student at **Institut Teknologi Bandung (ITB)**. I have a strong interest in low-level programming, computational architecture, and robotics. I enjoy working close to the hardware, analyzing memory layouts, and building efficient system-level applications.
 
