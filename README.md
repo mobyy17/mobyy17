@@ -32,7 +32,9 @@ I'm an Informatics Engineering student at **Institut Teknologi Bandung (ITB)**. 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mobyy17&show_icons=true&theme=radical" alt="Rafiif's GitHub Stats" />
+
+![Rafiif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mobyy17&show_icons=true&theme=radical)
+
 </div>
 
 ---
