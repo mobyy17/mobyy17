@@ -1,4 +1,4 @@
-# Hi there, I'm Muhammad Rafiif Ansyadya! 👋
+<img width="1307" height="237" alt="image" src="https://github.com/user-attachments/assets/27652675-87e0-4831-bcd4-96810c65e4c2" /># Hi there, I'm Muhammad Rafiif Ansyadya! 👋
 
 I'm an Informatics Engineering student at **Institut Teknologi Bandung (ITB)**. I have a strong interest in low-level programming, computational architecture, and robotics. I enjoy working close to the hardware, analyzing memory layouts, and building efficient system-level applications.
 
@@ -33,7 +33,11 @@ I'm an Informatics Engineering student at **Institut Teknologi Bandung (ITB)**. 
 
 <div align="center">
 
-![Rafiif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mobyy17&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=mobyy17&show_icons=true&theme=radical)
+
+![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=mobyy17&theme=radical)
+
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mobyy17&layout=compact&theme=radical)
 
 </div>
 
