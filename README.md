@@ -5,7 +5,7 @@ I'm an Informatics Engineering student at **Institut Teknologi Bandung (ITB)**. 
 ### 👨‍💻 About Me
 * 🎓 Currently studying Informatics Engineering (Teknik Informatika) at ITB.
 * ⚙️ Passionate about **Systems Programming**, **Data Structures**, and **SoftEng**
-* 🔬 Constantly exploring reverse-engineering, x86-64 assembly logic, and trajectory controller frameworks.
+* 🔬 Constantly exploring AI, Machine Learning, and Deep Learning
 * 🚀 Always looking to collaborate on open-source C/C++ projects and systems architecture.
 
 ---
